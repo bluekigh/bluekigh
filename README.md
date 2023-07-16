@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluekigh
-- 👀 I’m interested in Unity, flutter, Django
-- 🌱 I’m currently learning flutter, Django
+- 👀 I’m interested in Unity
+- 🌱 I’m currently learning unity and unity mirror server
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
